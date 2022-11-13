@@ -1,0 +1,14 @@
+.passDiv{
+    position: relative;
+}
+.passInput {
+    width: 38%;
+}
+.passEye {
+    position: absolute;
+    left: 70%; 
+    bottom:-25%;
+    border: none;
+    background:none;
+    padding: 0;
+}    
